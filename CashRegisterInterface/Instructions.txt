@@ -1,0 +1,47 @@
+Instructions.
+
+You have received a Visual Studio 2010 project with 3 projects: TestProject, CashRegisterTest and CashRegisterInterfaces.
+Write all your code in TestProject. You may add code in CashRegisterTest but it will not be reviewed.
+If you put in code that is not required, mark it with regions (#region Outside task)
+
+Respond with an email with the result (solution).
+In the mail write down what tasks you are finished with.
+Do as many tasks as possible, but it is better to do a few with high quality than many without.
+Make sure the code is runnable when you submit it (comment out any half finished task).
+
+Your code will be reviewed, please remember these standard rules:
+
+* Write code that is easy to understand, flexible, object oriented and robust.
+* Comment your code
+* Handle errors. If no other way is possible throw an informative exception.
+* When possible use standard c# classes and interfaces.
+* Better to produce a little code with high quality, than a lot with poor quality.
+* Test your code.
+
+The tasks can be found in Task.cs in project CashRegisterInterfaces.
+
+
+Test instructions:
+ 
+The intention of the test is to build a simple cash register, where you can add items and generate receipt.
+ 
+Structure:         
+There are three projects;
+•	CashRegistrationInterfaces: This project contains the interface to be implemented
+•	CashRegisterTest: A project to test what you are doing. Just comment the code in ivTestButton_Click and instantiate 
+your own class that implements the interface from the project above.
+•	TestProject: This is where you write all your code, with the exception of the 
+changes you make in order to be able to perform your tests  (as described above).
+ 
+Use of internet resources is permitted (as it would be expected of the candidate use them in a real life scenario).
+
+Start with:
+CashRegisterInterfaces contains a file named Task.cs. This in turn contains two interfaces; ICashRegister and ICashRegisterDeluxe. 
+The Deluxe interface inherits from the first interface, and is not relevant until task 5.
+The first thing to do when you start the test is to create a new class (in the TestProject) 
+that implements the interface and creates the methods required. 
+Also, take a look in Form1.cs in project CashRegisterTest method ivTestButton_Click and uncomment relevant code blocks and
+set an interface to your class implementing one of the interfaces.
+
+
+Good luck!

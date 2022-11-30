@@ -1,0 +1,11 @@
+﻿
+Date:2022-10-10 20:49:35 Name:Milk, Low fat, 1Liter Quantity:4 pz Offer:Buy 4 milk pay for 3
+Date:2022-10-10 21:24:47 Name:Milk, Low fat, 1Liter Quantity:4 pz Offer:Buy 4 milk pay for 3
+Date:2022-10-10 21:41:08 Name:Milk, Low fat, 1Liter Quantity:4 pz Offer:Buy 4 milk pay for 3
+Date:2022-10-10 21:41:26 Name:Milk, Low fat, 1Liter Quantity:4 pz Offer:Buy 4 milk pay for 3
+Date:2022-10-10 21:41:26 Name:Milk, Low fat, 1Liter Quantity:4 pz Offer:Buy 4 milk pay for 3
+Date:2022-10-11 04:57:47 Name:Milk, Low fat, 1Liter Quantity:4 pz Offer:Buy 4 milk pay for 3
+Date:2022-10-11 04:57:47 Name:Milk, Low fat, 1Liter Quantity:4 pz Offer:Buy 4 milk pay for 3
+Date:2022-10-11 04:57:49 Name:Milk, Low fat, 1Liter Quantity:4 pz Offer:Buy 4 milk pay for 3
+Date:2022-10-11 04:57:49 Name:Milk, Low fat, 1Liter Quantity:4 pz Offer:Buy 4 milk pay for 3
+Date:2022-10-11 14:01:50 Name:Milk, Low fat, 1Liter Quantity:4 pz Offer:Buy 4 milk pay for 3

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Prices>
+  <PricePerItem>
+    <Item Name="Milk, Low fat, 1Liter">11.2</Item>
+    <Item Name="Butter">17</Item>
+    <Item Name="Bread">12.2</Item>
+    <Item Name="Cheese">15.5</Item>
+  </PricePerItem>
+  <PricePerKg>
+    <Item Name="Apple, Jonagold">13.4</Item>
+    <Item Name="Chicken">12.5</Item>
+    <Item Name="Salad">9.6</Item>
+    <Item Name="Fish, Salmon">14</Item>
+  </PricePerKg>
+</Prices>
